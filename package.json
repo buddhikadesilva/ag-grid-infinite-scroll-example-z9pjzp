@@ -9,7 +9,7 @@
     "zone.js": "0.8.26",
     "typescript": "2.7.2",
     "rxjs-compat": "6.2.1",
-    "@angular/core": "6.0.0",
+    "@angular/core": "10.2.5",
     "@angular/forms": "6.0.0",
     "@angular/common": "6.0.0",
     "@angular/router": "6.0.0",
